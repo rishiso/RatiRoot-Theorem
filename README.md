@@ -1,4 +1,4 @@
-# Python-RatiRoot-Theorem
+# RatiRoot-Theorem
 This is an algorithm that can calculate the rational roots of a function. It uses the leading coefficient, constant, and expression as parameters.
 
 Examples:
